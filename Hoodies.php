@@ -27,8 +27,8 @@
             <i class="fa-brands fa-instagram"></i>
         </div>
         <div class="other-links">
-            <button id="btn-login"><a href="login.html">Login</a></button>
-            <button id="btn-signup"><a href="signup.html">Sign up</a></button>
+            <button id="btn-login"><a href="login.php">Login</a></button>
+            <button id="btn-signup"><a href="signup.php">Sign up</a></button>
 
             <i class="fa-solid fa-user"></i>
             <i class="fa-solid fa-cart-shopping"></i>
@@ -47,29 +47,29 @@
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                   <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                    <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="clothes.html">Clothes</a>
+                    <a class="nav-link" href="clothes.php">Clothes</a>
                   </li>
                   <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                       Category
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="background-color: #1c1c50;">
-                      <li><a class="dropdown-item" href="T-Shirt.html">T-Shirt</a></li>
-                      <li><a class="dropdown-item" href="Hoodies.html">Hoodies</a></li>
-                      <li><a class="dropdown-item" href="Pants.html">Pants</a></li>
-                      <li><a class="dropdown-item" href="SportShoes.html">Sport Shoes</a></li>
-                      <li><a class="dropdown-item" href="Smartwatches.html">Smart Watch</a></li>
-                      <li><a class="dropdown-item" href="Glasses.html">Glasses</a></li>
+                      <li><a class="dropdown-item" href="T-Shirt.php">T-Shirt</a></li>
+                      <li><a class="dropdown-item" href="Hoodies.php">Hoodies</a></li>
+                      <li><a class="dropdown-item" href="Pants.php">Pants</a></li>
+                      <li><a class="dropdown-item" href="SportShoes.php">Sport Shoes</a></li>
+                      <li><a class="dropdown-item" href="Smartwatches.php">Smart Watch</a></li>
+                      <li><a class="dropdown-item" href="Glasses.php">Glasses</a></li>
                     </ul>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="about.html">About Us</a>
+                    <a class="nav-link" href="about.php">About Us</a>
                   </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contact Us</a>
+                    <a class="nav-link" href="contact.php">Contact Us</a>
                   </li>
                 </ul>
                
@@ -358,11 +358,11 @@
             <div class="col-lg-3 col-md-6 footer-links">
                 <h4>Useful Links</h4>
                 <ul>
-                  <li><a href="index.html">Home</a></li>
-                  <li><a href="about.html">About</a></li>
-                  <li><a href="contact.html">Contact</a></li>
-                  <li><a href="services.html">Services</a></li>
-                  <li><a href="policy.html">Privacy policy</a></li>
+                  <li><a href="index.php">Home</a></li>
+                  <li><a href="about.php">About</a></li>
+                  <li><a href="contact.php">Contact</a></li>
+                  <li><a href="services.php">Services</a></li>
+                  <li><a href="policy.php">Privacy policy</a></li>
                 </ul>
             </div>
             <div class="col-lg-3 col-md-6 footer-links">
@@ -405,4 +405,4 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 
 </body>
-</html>
+</>

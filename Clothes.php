@@ -27,8 +27,8 @@
             <i class="fa-brands fa-instagram"></i>
         </div>
         <div class="other-links">
-            <button id="btn-login"><a href="login.html">Login</a></button>
-            <button id="btn-signup"><a href="signup.html">Sign up</a></button>
+            <button id="btn-login"><a href="login.php">Login</a></button>
+            <button id="btn-signup"><a href="signup.php">Sign up</a></button>
 
             <i class="fa-solid fa-user"></i>
             <i class="fa-solid fa-cart-shopping"></i>
@@ -36,7 +36,6 @@
     </div>
     <!-- top navbar -->
 
-    <div class="home-section">
         <!-- navbar -->
         <nav class="navbar navbar-expand-lg" id="navbar">
             <div class="container-fluid">
@@ -47,29 +46,29 @@
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                   <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                    <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="clothes.html">Clothes</a>
+                    <a class="nav-link" href="Clothes.php">Clothes</a>
                   </li>
                   <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                       Category
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="background-color: #1c1c50;">
-                      <li><a class="dropdown-item" href="T-Shirt.html">T-Shirt</a></li>
-                      <li><a class="dropdown-item" href="Hoodies.html">Hoodies</a></li>
-                      <li><a class="dropdown-item" href="Pants.html">Pants</a></li>
-                      <li><a class="dropdown-item" href="SportShoes.html">Sport Shoes</a></li>
-                      <li><a class="dropdown-item" href="Smartwatches.html">Smart Watch</a></li>
-                      <li><a class="dropdown-item" href="Glasses.html">Glasses</a></li>
+                      <li><a class="dropdown-item" href="T-Shirt.php">T-Shirt</a></li>
+                      <li><a class="dropdown-item" href="Hoodies.php">Hoodies</a></li>
+                      <li><a class="dropdown-item" href="Pants.php">Pants</a></li>
+                      <li><a class="dropdown-item" href="SportShoes.php">Soprts Shoes</a></li>
+                      <li><a class="dropdown-item" href="Smartwatches.php">Smart Watch</a></li>
+                      <li><a class="dropdown-item" href="Glasses.php">Glasess</a></li>
                     </ul>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="about.html">About Us</a>
+                    <a class="nav-link" href="about.php">About Us</a>
                   </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contact Us</a>
+                    <a class="nav-link" href="contact.php">Contact Us</a>
                   </li>
                 </ul>
                
@@ -86,81 +85,28 @@
 
 
 
-        <!-- home content -->
-        <section class="home">
-            <div class="content">
-                <h3>Biggest Clothes Sale
-                    <br> <span>Up To 50% Off</span>
-                </h3>
-                <p>SPRING SALE!!! Get up to 50% off of any product purchased from the website from May 20th to August 20. HURRY WHILE STOCKS LAST.</p>
-            </div>
-            <div class="img">
-                <img src="image/IMG_3776.jpg" alt="">
-            </div>
-        </section>
-        <!-- home content -->
-    </div>
-
-    <!-- top cards -->
-    <div class="container" id="top-cards">
-        <div class="row">
-            <div class="col-md-5 py-3 py-md-0">
-                <div class="card" style="background-color: #a9a9a926;">
-                    <img src="image/IMG_3777.jpg" alt="">
-                    <div class="card-img-overlay">
-                        <h5 class="card-titel">Black Palm Angels</h5>
-                        <p>all sizes availble from waist 24 to 50</p>
-                        <p><strong>$200.30 <strike>$250.10</strike></strong></p>
-                        <button>Order Now</button>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 py-3 py-md-0">
-                <div class="card" style="background-color: #a9a9a926;">
-                    <img src="image/IMG_3778.jpg" alt="">
-                    <div class="card-img-overlay">
-                        <h5 class="card-titel">White Palm Angels</h5>
-                        <p>all sizes availble from waist 24 to 50</p>
-                        <p><strong>$150.10 <strike>$200.10</strike></strong></p>
-                        <button>Order Now</button>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 py-3 py-md-0">
-                <div class="card" style="background-color: #a9a9a926;">
-                    <img src="image/IMG_3779.jpg" alt="">
-                    <div class="card-img-overlay">
-                        <h5 class="card-titel">Blue Palm Angels</h5>
-                        <p>all sizes availble from waist 24 to 50</p>
-                        <p><strong>$150.10 <strike>$160</strike></strong></p>
-                        <button>Order Now</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- top cards -->
+        
     
 
     <!-- banner -->
-    <div class="banner">
-        <div class="content">
-            <h1>Get Up To 50% Off</h1>
-            <p>SPRING SALE!!! Get up to 50% off of any product purchased from the website from May 20th to August 20. HURRY WHILE STOCKS LAST.</p>
+    <div class="banner2">
+        <div class="content2">
+            <h1>Get More Product</h1>
+            <p>Get quality clothing and footwear withClan Studio ranging from the smallest size to the largest</p>
+            <div id="bannerbtn2"><button>SHOP NOW</button></div>
         </div>
     </div>
     <!-- banner -->
 
     <!-- product cards -->
     <div class="container" id="product-cards">
-        <h1 class="text-center">PRODUCT</h1>
         <div class="row" style="margin-top: 30px;">
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3780.jpg" alt="">
+                    <img src="./image/p1.png" alt="">
                     <div class="card-body">
-                        <h3>Green Dower Street</h3>
-                        <p>all sizes availble from waist 24 to 50</p>
+                        <h3>Girls Heel</h3>
+                        <p>Quality heels ranging from size 28 to 42.</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -168,16 +114,16 @@
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
                         </div>
-                        <h5>$32.60 <strike>$50</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                        <h5>$12.3 <strike>$15.5</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3781.jpg" alt="">
+                    <img src="./image/p2.png" alt="">
                     <div class="card-body">
-                        <h3>Luminous Gray</h3>
-                        <p>all sizes availble from waist 24 to 50</p>
+                        <h3>Men Hoodie</h3>
+                        <p>Quality hoodies sizes ranging from size large to 6XL</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -185,16 +131,16 @@
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
                         </div>
-                        <h5>$56.50 <strike>$60</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                        <h5>$3.2 <strike>$5.1</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3782.jpg" alt="">
+                    <img src="./image/p3.png" alt="">
                     <div class="card-body">
-                        <h3>Black Sweatpants</h3>
-                        <p>all sizes availble from waist 24 to 50</p>
+                        <h3>Smart Watch</h3>
+                        <p>Quality ralph Lauren watches available.</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -202,16 +148,16 @@
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
                         </div>
-                        <h5>$15.5 <strike>$16.50</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                        <h5>$50.10 <strike>$60</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3783.jpg" alt="">
+                    <img src="./image/p4.png" alt="">
                     <div class="card-body">
-                        <h3>Brown Essentials </h3>
-                        <p>all sizes availble from waist 24 to 50</p>
+                        <h3>Men T-Shirt</h3>
+                        <p>Quality t-shirts sizes ranging from small to 6XL.</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -219,7 +165,7 @@
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
                         </div>
-                        <h5>$50.60 <strike>$56.90</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                        <h5>$10.5 <strike>$15</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
                     </div>
                 </div>
             </div>
@@ -228,10 +174,10 @@
         <div class="row" style="margin-top: 30px;">
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3784.jpg" alt="">
+                    <img src="./image/p5.png" alt="">
                     <div class="card-body">
-                        <h3>Orange Essentials</h3>
-                        <p>all sizes availble from waist 24 to 50</p>
+                        <h3>Hand Bag</h3>
+                        <p>Quality handbags available.</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -239,16 +185,16 @@
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
                         </div>
-                        <h5>$55.60 <strike>$60.50</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                        <h5>$100.5 <strike>$120.30</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3785.jpg" alt="">
+                    <img src="./image/p6.png" alt="">
                     <div class="card-body">
-                        <h3>Jungle Green cargo</h3>
-                        <p>all sizes availble from waist 24 to 50</p>
+                        <h3>Sport Shoes</h3>
+                        <p>Comfortable shoes from kids to adult section.</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -256,16 +202,34 @@
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
                         </div>
-                        <h5>$22.30 <strike>$25</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                        <h5>$32.50 <strike>$35.30</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3 py-3 py-md-0">
+                <div class="card">
+                    <img src="./image/p7.png" alt="">
+                    <div class="card-body">
+                        <h3>Girls Heel</h3>
+                        <p>Girls heels ranging from size 28 to 42.</p>
+                        <div class="star">
+                            <i class="fas fa-star checked"></i>
+                            <i class="fas fa-star checked"></i>
+                            <i class="fas fa-star checked"></i>
+                            <i class="fas fa-star checked"></i>
+                            <i class="fas fa-star checked"></i>
+                        </div>
+                        <h5>$20.10 <strike>$30.20</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3786.jpg" alt="">
+                    <img src="./image/p8.png" alt="">
                     <div class="card-body">
-                        <h3>Blue Denim</h3>
-                        <p>all sizes availble from waist 24 to 50</p>
+                        <h3>Mens Jeans</h3>
+                        <p>Quality denim jeans available.</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -273,16 +237,35 @@
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
                         </div>
-                        <h5>$33.2 <strike>$35.60</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                        <h5>$65.50 <strike>$100</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row" style="margin-top: 30px;">
+            <div class="col-md-3 py-3 py-md-0">
+                <div class="card">
+                    <img src="./image/p9.jpg" alt="">
+                    <div class="card-body">
+                        <h3>Dark Pant</h3>
+                        <p>Dark pants waist 24 to 44.</p>
+                        <div class="star">
+                            <i class="fas fa-star checked"></i>
+                            <i class="fas fa-star checked"></i>
+                            <i class="fas fa-star checked"></i>
+                            <i class="fas fa-star checked"></i>
+                            <i class="fas fa-star checked"></i>
+                        </div>
+                        <h5>$13.5 <strike>$15.10</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3787.jpg" alt="">
+                    <img src="./image/p10.jpg" alt="">
                     <div class="card-body">
-                        <h3>Ash Grey Denim</h3>
-                        <p>all sizes availble from waist 24 to 50</p>
+                        <h3>Mwalk Billies</h3>
+                        <p>Summer doll shoes available sie 26 to 42.</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -290,13 +273,63 @@
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
                         </div>
-                        <h5>$20.50 <strike>$25.60</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                        <h5>$6.50 <strike>$10.50</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 py-3 py-md-0">
+                <div class="card">
+                    <img src="./image/p11.jpg" alt="">
+                    <div class="card-body">
+                        <h3>Sweat Shirt</h3>
+                        <p>Cotton sweat shirt size small to 6XL.</p>
+                        <div class="star">
+                            <i class="fas fa-star checked"></i>
+                            <i class="fas fa-star checked"></i>
+                            <i class="fas fa-star checked"></i>
+                            <i class="fas fa-star checked"></i>
+                            <i class="fas fa-star checked"></i>
+                        </div>
+                        <h5>$10.5 <strike>$15.50</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 py-3 py-md-0">
+                <div class="card">
+                    <img src="./image/p12.jpg" alt="">
+                    <div class="card-body">
+                        <h3>Black T-Shirt</h3>
+                        <p>Size small to 6XL.</p>
+                        <div class="star">
+                            <i class="fas fa-star checked"></i>
+                            <i class="fas fa-star checked"></i>
+                            <i class="fas fa-star checked"></i>
+                            <i class="fas fa-star checked"></i>
+                            <i class="fas fa-star checked"></i>
+                        </div>
+                        <h5>$5.1 <strike>$6.50</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
                     </div>
                 </div>
             </div>
         </div>
     </div>
     <!-- product cards -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
 
     <!-- product -->
     <div class="container" style="margin-top: 100px;">
@@ -326,7 +359,7 @@
             </div>
             <div class="col-md-4 py-3 py-md-0">
                 <i class="fa-solid fa-thumbs-up"></i>
-                <h5>Best Choice</h5>
+                <h5>Big Choice</h5>
                 <p>Of product</p>
             </div>
         </div>
@@ -340,69 +373,69 @@
 
 <!-- footer -->
 <footer id="footer" style="margin-top: 50px;">
-<div class="footer-top">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-3 col-md-6 footer-content">
-                <h3>Fashion</h3>
-                <p>The shop showcases stylish clothing and trendy accessories for everyone.
-                </p>
-                <p>
-                    Sasha <br>
-                    Chantal <br>
-                    Benard <br>
-                </p>
-                <strong><i class="fas fa-phone"></i> Phone: <strong>+254-729(671)748</strong></strong><br>
-                <strong><i class="fa-solid fa-envelope"></i> Email: <strong>benardobi10970@gmail.com</strong></strong>
-            </div>
-            <div class="col-lg-3 col-md-6 footer-links">
-                <h4>Useful Links</h4>
-                <ul>
-                  <li><a href="index.html">Home</a></li>
-                  <li><a href="about.html">About</a></li>
-                  <li><a href="contact.html">Contact</a></li>
-                  <li><a href="services.html">Services</a></li>
-                  <li><a href="policy.html">Privacy policy</a></li>
-                </ul>
-            </div>
-            <div class="col-lg-3 col-md-6 footer-links">
-                <h4>Our Services</h4>
-                <p>The shop offers personalized styling, alterations, and gift wrapping services.</p>
-                <ul>
-                    <li><a href="#">Smart phone</a></li>
-                    <li><a href="#">Smart watch</a></li>
-                    <li><a href="#">Airpods</a></li>
-                </ul>
-            </div>
-            <div class="col-lg-3 col-md-6 footer-links">
-                <h4>Our Social Network</h4>
-                <p>Reach us easily on our social media platforms below in case you have complains, compliments or want to enquire about a product</p>
-                <div class="socail-links mt-3">
-                    <a href="#" class="twiiter"><i class="fa-brands fa-twitter"></i></a>
-                    <a href="#" class="twiiter"><i class="fa-brands fa-facebook-f"></i></a>
-                    <a href="#" class="twiiter"><i class="fa-brands fa-google-plus"></i></a>
-                    <a href="#" class="twiiter"><i class="fa-brands fa-instagram"></i></a>
-                    <a href="#" class="twiiter"><i class="fa-brands fa-linkedin-in"></i></a>
+    <div class="footer-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 footer-content">
+                    <h3>Fashion</h3>
+                    <p>The shop showcases stylish clothing and trendy accessories for everyone.
+                    </p>
+                    <p>
+                        Sasha <br>
+                        Chantal <br>
+                        Benard <br>
+                    </p>
+                    <strong><i class="fas fa-phone"></i> Phone: <strong>+254-729(671)748</strong></strong><br>
+                    <strong><i class="fa-solid fa-envelope"></i> Email: <strong>benardobi10970@gmail.com</strong></strong>
+                </div>
+                <div class="col-lg-3 col-md-6 footer-links">
+                    <h4>Useful Links</h4>
+                    <ul>
+                      <li><a href="index.php">Home</a></li>
+                      <li><a href="about.php">About</a></li>
+                      <li><a href="contact.php">Contact</a></li>
+                      <li><a href="services.php">Services</a></li>
+                      <li><a href="policy.php">Privacy policy</a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-6 footer-links">
+                    <h4>Our Services</h4>
+                    <p>The shop offers personalized styling, alterations, and gift wrapping services.</p>
+                    <ul>
+                        <li><a href="#">Smart phone</a></li>
+                        <li><a href="#">Smart watch</a></li>
+                        <li><a href="#">Airpods</a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-6 footer-links">
+                    <h4>Our Social Network</h4>
+                    <p>Reach us easily on our social media platforms below in case you have complains, compliments or want to enquire about a product</p>
+                    <div class="socail-links mt-3">
+                        <a href="#" class="twiiter"><i class="fa-brands fa-twitter"></i></a>
+                        <a href="#" class="twiiter"><i class="fa-brands fa-facebook-f"></i></a>
+                        <a href="#" class="twiiter"><i class="fa-brands fa-google-plus"></i></a>
+                        <a href="#" class="twiiter"><i class="fa-brands fa-instagram"></i></a>
+                        <a href="#" class="twiiter"><i class="fa-brands fa-linkedin-in"></i></a>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
-<hr>
-<div class="container py-4">
-    <div class="copyright">
-        &copy; Copyright <strong>TH3 CLVN</strong>.All Rights Reserved
+    <hr>
+    <div class="container py-4">
+        <div class="copyright">
+            &copy; Copyright <strong>TH3 CLVN</strong>.All Rights Reserved
+        </div>
+        <div class="credits">
+            Designed By <a href="#">Benard Obiero</a>
+        </div>
     </div>
-    <div class="credits">
-        Designed By <a href="#">Benard Obiero</a>
-    </div>
-</div>
-</footer>
+    </footer>
 <!-- footer -->
 
-<a href="#" class="arrow"><i><img src="./image/up-arrow.png" alt="" width="40px"></i></a>
+<a href="#" class="arrow"><i><img src="./image/up-arrow.png" alt="" width="50px"></i></a>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 
 </body>
-</html>
+</>

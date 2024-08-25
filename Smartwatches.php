@@ -27,8 +27,8 @@
             <i class="fa-brands fa-instagram"></i>
         </div>
         <div class="other-links">
-            <button id="btn-login"><a href="login.html">Login</a></button>
-            <button id="btn-signup"><a href="signup.html">Sign up</a></button>
+            <button id="btn-login"><a href="login.php">Login</a></button>
+            <button id="btn-signup"><a href="signup.php">Sign up</a></button>
 
             <i class="fa-solid fa-user"></i>
             <i class="fa-solid fa-cart-shopping"></i>
@@ -47,29 +47,29 @@
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                   <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                    <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="clothes.html">Clothes</a>
+                    <a class="nav-link" href="clothes.php">Clothes</a>
                   </li>
                   <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                       Category
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="background-color: #1c1c50;">
-                      <li><a class="dropdown-item" href="T-Shirt.html">T-Shirt</a></li>
-                      <li><a class="dropdown-item" href="Hoodies.html">Hoodies</a></li>
-                      <li><a class="dropdown-item" href="Pants.html">Pants</a></li>
-                      <li><a class="dropdown-item" href="SportShoes.html">Sport Shoes</a></li>
-                      <li><a class="dropdown-item" href="Smartwatches.html">Smart Watch</a></li>
-                      <li><a class="dropdown-item" href="Glasses.html">Glasses</a></li>
+                      <li><a class="dropdown-item" href="T-Shirt.php">T-Shirt</a></li>
+                      <li><a class="dropdown-item" href="Hoodies.php">Hoodies</a></li>
+                      <li><a class="dropdown-item" href="Pants.php">Pants</a></li>
+                      <li><a class="dropdown-item" href="SportShoes.php">Sport Shoes</a></li>
+                      <li><a class="dropdown-item" href="Smartwatches.php">Smart Watch</a></li>
+                      <li><a class="dropdown-item" href="Glasses.php">Glasses</a></li>
                     </ul>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="about.html">About Us</a>
+                    <a class="nav-link" href="about.php">About Us</a>
                   </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contact Us</a>
+                    <a class="nav-link" href="contact.php">Contact Us</a>
                   </li>
                 </ul>
                
@@ -89,13 +89,13 @@
         <!-- home content -->
         <section class="home">
             <div class="content">
-                <h3>Biggest Clothes Sale
+                <h3>Biggest Watches Sale
                     <br> <span>Up To 50% Off</span>
                 </h3>
                 <p>SPRING SALE!!! Get up to 50% off of any product purchased from the website from May 20th to August 20. HURRY WHILE STOCKS LAST.</p>
             </div>
             <div class="img">
-                <img src="image/IMG_3834.jpg" alt="">
+                <img src="image/IMG_3831.jpg" alt="">
             </div>
         </section>
         <!-- home content -->
@@ -106,33 +106,33 @@
         <div class="row">
             <div class="col-md-4 py-3 py-md-0">
                 <div class="card" style="background-color: #a9a9a926;">
-                    <img src="image/IMG_3833.jpg" alt="">
+                    <img src="image/IMG_3830.jpg" alt="">
                     <div class="card-img-overlay">
-                        <h5 class="card-titel">Grey Glasses</h5>
-                        <p>Look Stylish curtesy of us</p>
-                        <p><strong>$20.30 <strike>$25.10</strike></strong></p>
+                        <h5 class="card-titel">Gold Watch</h5>
+                        <p>Get to check the time in style with our custom made watches from Tesla</p>
+                        <p><strong>$200.30 <strike>$250.10</strike></strong></p>
                         <button>Order Now</button>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 py-3 py-md-0">
                 <div class="card" style="background-color: #a9a9a926;">
-                    <img src="image/IMG_3839.jpg" alt="">
+                    <img src="image/IMG_3827.jpg" alt="">
                     <div class="card-img-overlay">
-                        <h5 class="card-titel">Black Glasses</h5>
-                        <p>Look Stylish curtesy of us</p>
-                        <p><strong>$15.10 <strike>$20.10</strike></strong></p>
+                        <h5 class="card-titel">Black Watch</h5>
+                        <p>Get to check the time in style with our custom made watches</p>
+                        <p><strong>$150.10 <strike>$200.10</strike></strong></p>
                         <button>Order Now</button>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 py-3 py-md-0">
                 <div class="card" style="background-color: #a9a9a926;">
-                    <img src="image/IMG_3840.jpg" alt="">
+                    <img src="image/IMG_3826.jpg" alt="">
                     <div class="card-img-overlay">
-                        <h5 class="card-titel">Black X Grey</h5>
-                        <p>Look Stylish curtesy of us</p>
-                        <p><strong>$50.10 <strike>$60</strike></strong></p>
+                        <h5 class="card-titel">Truly Enkata</h5>
+                        <p>Get to check the time in style with our custom made watches</p>
+                        <p><strong>$250.10 <strike>$260</strike></strong></p>
                         <button>Order Now</button>
                     </div>
                 </div>
@@ -157,10 +157,10 @@
         <div class="row" style="margin-top: 30px;">
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3841.jpg" alt="">
+                    <img src="image/IMG_3825.jpg" alt="">
                     <div class="card-body">
-                        <h3>Black X Red</h3>
-                        <p>Look Stylish curtesy of us</p>
+                        <h3>Time-date</h3>
+                        <p>Get to check the time in style with our custom made watches</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -174,10 +174,10 @@
             </div>
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3842.jpg" alt="">
+                    <img src="image/IMG_3824.jpg" alt="">
                     <div class="card-body">
-                        <h3>Nono Round</h3>
-                        <p>Look Stylish curtesy of us</p>
+                        <h3>Silver</h3>
+                        <p>Get to check the time in style with our custom made watches</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -191,10 +191,10 @@
             </div>
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3843.jpg" alt="">
+                    <img src="image/IMG_3823.jpg" alt="">
                     <div class="card-body">
-                        <h3>Konde Round</h3>
-                        <p>Look Stylish curtesy of us</p>
+                        <h3>Men</h3>
+                        <p>Get to check the time in style with our custom made watches</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -202,16 +202,16 @@
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
                         </div>
-                        <h5>$15.5 <strike>$16.50</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                        <h5>$150.5 <strike>$160.50</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3844.jpg" alt="">
+                    <img src="image/IMG_3822.jpg" alt="">
                     <div class="card-body">
-                        <h3>Hottt</h3>
-                        <p>Look Stylish curtesy of us</p>
+                        <h3>Silver Time-date</h3>
+                        <p>Get to check the time in style with our custom made watches</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -228,10 +228,10 @@
         <div class="row" style="margin-top: 30px;">
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3845.jpg" alt="">
+                    <img src="image/IMG_3821.jpg" alt="">
                     <div class="card-body">
-                        <h3>Hotterrr</h3>
-                        <p>Look Stylish curtesy of us</p>
+                        <h3>Leather handle</h3>
+                        <p>Get to check the time in style with our custom made watches</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -239,16 +239,16 @@
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
                         </div>
-                        <h5>$25.60 <strike>$30.50</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                        <h5>$85.60 <strike>$100.50</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3847.jpg" alt="">
+                    <img src="image/IMG_3820.jpg" alt="">
                     <div class="card-body">
-                        <h3>Hottesttt</h3>
-                        <p>Look Stylish curtesy of us</p>
+                        <h3>Denim</h3>
+                        <p>Get to check the time in style with our custom made watches</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -262,10 +262,10 @@
             </div>
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3848.jpg" alt="">
+                    <img src="image/IMG_3819.jpg" alt="">
                     <div class="card-body">
-                        <h3>Gurlll</h3>
-                        <p>Look Stylish curtesy of us</p>
+                        <h3>Jungle Green</h3>
+                        <p>Get to check the time in style with our custom made watches</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -273,16 +273,16 @@
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
                         </div>
-                        <h5>$43.2 <strike>$45.60</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                        <h5>$39.2 <strike>$45.60</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3849.jpg" alt="">
+                    <img src="image/IMG_3818.jpg" alt="">
                     <div class="card-body">
-                        <h3>Whom says no</h3>
-                        <p>Look Stylish curtesy of us</p>
+                        <h3>Silver X Gold</h3>
+                        <p>Get to check the time in style with our custom made watches</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -290,7 +290,7 @@
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
                         </div>
-                        <h5>$130.50 <strike>$150.60</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                        <h5>$10.50 <strike>$15.60</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
                     </div>
                 </div>
             </div>
@@ -358,11 +358,11 @@
             <div class="col-lg-3 col-md-6 footer-links">
                 <h4>Useful Links</h4>
                 <ul>
-                  <li><a href="index.html">Home</a></li>
-                  <li><a href="about.html">About</a></li>
-                  <li><a href="contact.html">Contact</a></li>
-                  <li><a href="services.html">Services</a></li>
-                  <li><a href="policy.html">Privacy policy</a></li>
+                  <li><a href="index.php">Home</a></li>
+                  <li><a href="about.php">About</a></li>
+                  <li><a href="contact.php">Contact</a></li>
+                  <li><a href="services.php">Services</a></li>
+                  <li><a href="policy.php">Privacy policy</a></li>
                 </ul>
             </div>
             <div class="col-lg-3 col-md-6 footer-links">
@@ -405,4 +405,4 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 
 </body>
-</html>
+</>

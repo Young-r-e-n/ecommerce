@@ -27,8 +27,8 @@
             <i class="fa-brands fa-instagram"></i>
         </div>
         <div class="other-links">
-            <button id="btn-login"><a href="login.html">Login</a></button>
-            <button id="btn-signup"><a href="signup.html">Sign up</a></button>
+            <button id="btn-login"><a href="login.php">Login</a></button>
+            <button id="btn-signup"><a href="signup.php">Sign up</a></button>
 
             <i class="fa-solid fa-user"></i>
             <i class="fa-solid fa-cart-shopping"></i>
@@ -47,29 +47,29 @@
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                   <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                    <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="clothes.html">Clothes</a>
+                    <a class="nav-link" href="clothes.php">Clothes</a>
                   </li>
                   <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                       Category
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style="background-color: #1c1c50;">
-                      <li><a class="dropdown-item" href="T-Shirt.html">T-Shirt</a></li>
-                      <li><a class="dropdown-item" href="Hoodies.html">Hoodies</a></li>
-                      <li><a class="dropdown-item" href="Pants.html">Pants</a></li>
-                      <li><a class="dropdown-item" href="SportShoes.html">Sport Shoes</a></li>
-                      <li><a class="dropdown-item" href="Smartwatches.html">Smart Watch</a></li>
-                      <li><a class="dropdown-item" href="Glasses.html">Glasses</a></li>
+                      <li><a class="dropdown-item" href="T-Shirt.php">T-Shirt</a></li>
+                      <li><a class="dropdown-item" href="Hoodies.php">Hoodies</a></li>
+                      <li><a class="dropdown-item" href="Pants.php">Pants</a></li>
+                      <li><a class="dropdown-item" href="SportShoes.php">Sport Shoes</a></li>
+                      <li><a class="dropdown-item" href="Smartwatches.php">Smart Watch</a></li>
+                      <li><a class="dropdown-item" href="Glasses.php">Glasses</a></li>
                     </ul>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="about.html">About Us</a>
+                    <a class="nav-link" href="about.php">About Us</a>
                   </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contact Us</a>
+                    <a class="nav-link" href="contact.php">Contact Us</a>
                   </li>
                 </ul>
                
@@ -95,7 +95,7 @@
                 <p>SPRING SALE!!! Get up to 50% off of any product purchased from the website from May 20th to August 20. HURRY WHILE STOCKS LAST.</p>
             </div>
             <div class="img">
-                <img src="image/IMG_3804.jpg" alt="">
+                <img src="image/IMG_3776.jpg" alt="">
             </div>
         </section>
         <!-- home content -->
@@ -104,35 +104,35 @@
     <!-- top cards -->
     <div class="container" id="top-cards">
         <div class="row">
-            <div class="col-md-4 py-3 py-md-0">
+            <div class="col-md-5 py-3 py-md-0">
                 <div class="card" style="background-color: #a9a9a926;">
-                    <img src="image/IMG_3805.jpg" alt="">
+                    <img src="image/IMG_3777.jpg" alt="">
                     <div class="card-img-overlay">
-                        <h5 class="card-titel">Duffy X AF1</h5>
-                        <p>Shoe sizes from 28 to 47</p>
-                        <p><strong>$500.30 <strike>$550.10</strike></strong></p>
+                        <h5 class="card-titel">Black Palm Angels</h5>
+                        <p>all sizes availble from waist 24 to 50</p>
+                        <p><strong>$200.30 <strike>$250.10</strike></strong></p>
                         <button>Order Now</button>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 py-3 py-md-0">
                 <div class="card" style="background-color: #a9a9a926;">
-                    <img src="image/IMG_3806.jpg" alt="">
+                    <img src="image/IMG_3778.jpg" alt="">
                     <div class="card-img-overlay">
-                        <h5 class="card-titel">Bartman X AF1</h5>
-                        <p>Shoe sizes from 28 to 47</p>
-                        <p><strong>$650.10 <strike>$700.10</strike></strong></p>
+                        <h5 class="card-titel">White Palm Angels</h5>
+                        <p>all sizes availble from waist 24 to 50</p>
+                        <p><strong>$150.10 <strike>$200.10</strike></strong></p>
                         <button>Order Now</button>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 py-3 py-md-0">
+            <div class="col-md-3 py-3 py-md-0">
                 <div class="card" style="background-color: #a9a9a926;">
-                    <img src="image/IMG_3807.jpg" alt="">
+                    <img src="image/IMG_3779.jpg" alt="">
                     <div class="card-img-overlay">
-                        <h5 class="card-titel">Lightning X AF1</h5>
-                        <p>Shoe sizes from 28 to 47</p>
-                        <p><strong>$650.10 <strike>$660</strike></strong></p>
+                        <h5 class="card-titel">Blue Palm Angels</h5>
+                        <p>all sizes availble from waist 24 to 50</p>
+                        <p><strong>$150.10 <strike>$160</strike></strong></p>
                         <button>Order Now</button>
                     </div>
                 </div>
@@ -157,10 +157,10 @@
         <div class="row" style="margin-top: 30px;">
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3808.jpg" alt="">
+                    <img src="image/IMG_3780.jpg" alt="">
                     <div class="card-body">
-                        <h3>Monsters X AF1</h3>
-                        <p>Shoe sizes from 28 to 47L</p>
+                        <h3>Green Dower Street</h3>
+                        <p>all sizes availble from waist 24 to 50</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -168,16 +168,16 @@
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
                         </div>
-                        <h5>$3200.60 <strike>$3500</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                        <h5>$32.60 <strike>$50</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3809.jpg" alt="">
+                    <img src="image/IMG_3781.jpg" alt="">
                     <div class="card-body">
-                        <h3>Yeet X AF1</h3>
-                        <p>Shoe sizes from 28 to 47</p>
+                        <h3>Luminous Gray</h3>
+                        <p>all sizes availble from waist 24 to 50</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -185,16 +185,16 @@
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
                         </div>
-                        <h5>$560.50 <strike>$600</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                        <h5>$56.50 <strike>$60</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3811.jpg" alt="">
+                    <img src="image/IMG_3782.jpg" alt="">
                     <div class="card-body">
-                        <h3>Panda street X AF1</h3>
-                        <p>Shoe sizes ranging from 39 to 48.</p>
+                        <h3>Black Sweatpants</h3>
+                        <p>all sizes availble from waist 24 to 50</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -202,16 +202,16 @@
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
                         </div>
-                        <h5>$1500.5 <strike>$1600.50</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                        <h5>$15.5 <strike>$16.50</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3813.jpg" alt="">
+                    <img src="image/IMG_3783.jpg" alt="">
                     <div class="card-body">
-                        <h3>Customized AF1</h3>
-                        <p>Shoe sizes from 28 to 47</p>
+                        <h3>Brown Essentials </h3>
+                        <p>all sizes availble from waist 24 to 50</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -219,7 +219,7 @@
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
                         </div>
-                        <h5>$500.60 <strike>$560.90</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                        <h5>$50.60 <strike>$56.90</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
                     </div>
                 </div>
             </div>
@@ -228,10 +228,10 @@
         <div class="row" style="margin-top: 30px;">
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3814.jpg" alt="">
+                    <img src="image/IMG_3784.jpg" alt="">
                     <div class="card-body">
-                        <h3>Naruti X AF1</h3>
-                        <p>Shoe sizes from 28 to 47</p>
+                        <h3>Orange Essentials</h3>
+                        <p>all sizes availble from waist 24 to 50</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -239,16 +239,16 @@
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
                         </div>
-                        <h5>$500.60 <strike>$510.50</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                        <h5>$55.60 <strike>$60.50</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3815.jpg" alt="">
+                    <img src="image/IMG_3785.jpg" alt="">
                     <div class="card-body">
-                        <h3>TMNT X AF1</h3>
-                        <p>Shoe sizes from 28 to 47</p>
+                        <h3>Jungle Green cargo</h3>
+                        <p>all sizes availble from waist 24 to 50</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -256,16 +256,16 @@
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
                         </div>
-                        <h5>$290.30 <strike>$500</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                        <h5>$22.30 <strike>$25</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3816.jpg" alt="">
+                    <img src="image/IMG_3786.jpg" alt="">
                     <div class="card-body">
-                        <h3>Falcons X AF1</h3>
-                        <p>customizable women Jacket.</p>
+                        <h3>Blue Denim</h3>
+                        <p>all sizes availble from waist 24 to 50</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -273,16 +273,16 @@
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
                         </div>
-                        <h5>$370.2 <strike>$500.60</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                        <h5>$33.2 <strike>$35.60</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-3 py-3 py-md-0">
                 <div class="card">
-                    <img src="image/IMG_3817.jpg" alt="">
+                    <img src="image/IMG_3787.jpg" alt="">
                     <div class="card-body">
-                        <h3>Dragons X AF1</h3>
-                        <p>Men's official shirts available from size large to 6XL.</p>
+                        <h3>Ash Grey Denim</h3>
+                        <p>all sizes availble from waist 24 to 50</p>
                         <div class="star">
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
@@ -290,7 +290,7 @@
                             <i class="fas fa-star checked"></i>
                             <i class="fas fa-star checked"></i>
                         </div>
-                        <h5>$810.50 <strike>$840.60</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
+                        <h5>$20.50 <strike>$25.60</strike> <span><i class="fa-solid fa-cart-shopping"></i></span></h5>
                     </div>
                 </div>
             </div>
@@ -358,11 +358,11 @@
             <div class="col-lg-3 col-md-6 footer-links">
                 <h4>Useful Links</h4>
                 <ul>
-                  <li><a href="index.html">Home</a></li>
-                  <li><a href="about.html">About</a></li>
-                  <li><a href="contact.html">Contact</a></li>
-                  <li><a href="services.html">Services</a></li>
-                  <li><a href="policy.html">Privacy policy</a></li>
+                  <li><a href="index.php">Home</a></li>
+                  <li><a href="about.php">About</a></li>
+                  <li><a href="contact.php">Contact</a></li>
+                  <li><a href="services.php">Services</a></li>
+                  <li><a href="policy.php">Privacy policy</a></li>
                 </ul>
             </div>
             <div class="col-lg-3 col-md-6 footer-links">
@@ -405,4 +405,4 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 
 </body>
-</html>
+</p>
